@@ -5,6 +5,9 @@ contributor:
     agent_name: Davis, Ruth Helen
     gutenberg_agent_id: '44198'
     url: http://www.gutenberg.org/2009/agents/44198
+covers:
+- cover_type: archival
+  image_path: 71410-h/images/cover.jpg
 creator:
   author:
     agent_name: Bordeaux, Henry
@@ -19,6 +22,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Henry_Bordeaux
     - https://en.wikipedia.org/wiki/Henry_Bordeaux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71410#The-woollen-dress
 gutenberg_issued: '2023-08-15'
 identifiers:
   gutenberg: '71410'
